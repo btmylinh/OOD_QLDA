@@ -1,0 +1,14 @@
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\bin\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.exe
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\bin\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.deps.json
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\bin\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.runtimeconfig.json
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\bin\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.dll
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\bin\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.pdb
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.AssemblyInfoInputs.cache
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.AssemblyInfo.cs
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.csproj.CoreCompileInputs.cache
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.dll
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\refint\BuiThiMyLinh_1150080145_BTtuan5.dll
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.pdb
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\BuiThiMyLinh_1150080145_BTtuan5.genruntimeconfig.cache
+D:\University\Y4k1 OOP\Code\BuiThiMyLinh_1150080145_BTtuan5\obj\Debug\net10.0\ref\BuiThiMyLinh_1150080145_BTtuan5.dll
